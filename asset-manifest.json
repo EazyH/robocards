@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robocards/static/css/main.10aa80a7.css",
+    "main.js": "/robocards/static/js/main.feaf635a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/robocards/static/js/787.28cb0dcd.chunk.js",
+    "static/media/mockejoe-font.woff": "/robocards/static/media/mockejoe-font.d39d4ce1c5188cb20e21.woff",
+    "index.html": "/robocards/index.html",
+    "main.10aa80a7.css.map": "/robocards/static/css/main.10aa80a7.css.map",
+    "main.feaf635a.js.map": "/robocards/static/js/main.feaf635a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/robocards/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10aa80a7.css",
+    "static/js/main.feaf635a.js"
+  ]
+}
